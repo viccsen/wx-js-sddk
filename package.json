@@ -1,5 +1,5 @@
 {
-  "name": "wx-js-sdk",
+  "name": "@viccsen/wx-jssdk",
   "version": "0.1.5",
   "description": "wx-js-sdk",
   "main": "lib/index.js",
