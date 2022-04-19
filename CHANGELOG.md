@@ -1,3 +1,12 @@
+## [0.1.7](https://github.com/viccsen/wx-js-sddk/compare/v0.1.6...v0.1.7) (2022-04-19)
+
+
+### Features
+
+* readme changed ([689c53d](https://github.com/viccsen/wx-js-sddk/commit/689c53db8391b143547e1c36ac76b2e856695b49))
+
+
+
 ## [0.1.6](https://github.com/viccsen/wx-js-sddk/compare/v0.1.5...v0.1.6) (2022-04-19)
 
 
