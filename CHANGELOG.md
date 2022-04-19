@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/viccsen/wx-js-sddk/compare/v0.1.2...v0.1.3) (2022-04-19)
+
+
+### Features
+
+* gitflow ([fd61d01](https://github.com/viccsen/wx-js-sddk/commit/fd61d01d404a573738669729bfe1c11a54445f6b))
+
+
+
 ## [0.1.2](https://github.com/viccsen/wx-js-sddk/compare/v0.2.9...v0.1.2) (2022-04-19)
 
 
