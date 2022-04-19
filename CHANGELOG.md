@@ -1,3 +1,12 @@
+## [0.1.4](https://github.com/viccsen/wx-js-sddk/compare/v0.1.3...v0.1.4) (2022-04-19)
+
+
+### Features
+
+* 优化 ([6c2a2c2](https://github.com/viccsen/wx-js-sddk/commit/6c2a2c22c1ab08383262a405bb922cbf4e1b5af5))
+
+
+
 ## [0.1.3](https://github.com/viccsen/wx-js-sddk/compare/v0.1.2...v0.1.3) (2022-04-19)
 
 
