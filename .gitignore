@@ -1,0 +1,5 @@
+lib
+node_modules
+./dist
+.git
+help.md
