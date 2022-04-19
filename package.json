@@ -1,7 +1,7 @@
 {
-  "name": "umijs-plugin-bugu-ui",
+  "name": "wx-js-sdk",
   "version": "0.2.8",
-  "description": "@umijs plugin for bugu-ui-components",
+  "description": "wx-js-sdk",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bugu-pro/umijs-plugin-bugu-ui"
+    "url": "https://github.com/viccsen/wx-js-sddk"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
