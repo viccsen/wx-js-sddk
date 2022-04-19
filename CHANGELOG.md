@@ -1,3 +1,12 @@
+## [0.1.5](https://github.com/viccsen/wx-js-sddk/compare/v0.1.4...v0.1.5) (2022-04-19)
+
+
+### Features
+
+* test ([15103ab](https://github.com/viccsen/wx-js-sddk/commit/15103ab0e7acd6c668b2536b0d8e67cdd8f7b6fa))
+
+
+
 ## [0.1.4](https://github.com/viccsen/wx-js-sddk/compare/v0.1.3...v0.1.4) (2022-04-19)
 
 
