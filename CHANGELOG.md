@@ -1,3 +1,12 @@
+## [0.1.6](https://github.com/viccsen/wx-js-sddk/compare/v0.1.5...v0.1.6) (2022-04-19)
+
+
+### Features
+
+* package name changed ([ceec363](https://github.com/viccsen/wx-js-sddk/commit/ceec3630341e38964a8c2c8c26dc1bc4be9cdbb1))
+
+
+
 ## [0.1.5](https://github.com/viccsen/wx-js-sddk/compare/v0.1.4...v0.1.5) (2022-04-19)
 
 
