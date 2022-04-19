@@ -1,17 +1,17 @@
-# wx-js-sdk
+# @viccsen/wx-jssdk
 
-> wx-js-sdk
+> @viccsen/wx-jssdk
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save-dev wx-js-sdk
+$ npm install --save-dev @viccsen/wx-jssdk
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add wx-js-sdk --dev
+$ yarn add @viccsen/wx-jssdk --dev
 ```
