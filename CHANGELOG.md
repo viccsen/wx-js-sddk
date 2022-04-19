@@ -1,3 +1,12 @@
+## 0.2.9 (2022-04-19)
+
+
+### Features
+
+* 基本信息修改 ([67443e0](https://github.com/viccsen/wx-js-sddk/commit/67443e053cd6c92cdc290cc45891d3faa7188017))
+
+
+
 ## [0.2.8](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.7...v0.2.8) (2022-04-13)
 
 
