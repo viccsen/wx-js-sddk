@@ -1,3 +1,12 @@
+## [0.1.8](https://github.com/viccsen/wx-js-sddk/compare/v0.1.7...v0.1.8) (2022-04-20)
+
+
+### Bug Fixes
+
+* 问题修复 ([f4245f4](https://github.com/viccsen/wx-js-sddk/commit/f4245f46acf6cac63d9a43812c56ae84ffaaf034))
+
+
+
 ## [0.1.7](https://github.com/viccsen/wx-js-sddk/compare/v0.1.6...v0.1.7) (2022-04-19)
 
 
